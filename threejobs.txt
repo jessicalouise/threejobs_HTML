@@ -1,0 +1,7 @@
+My final project is called “threejobs.” It’s a simple interface that displays three jobs a day (randomized). All you need to do is upload your resume as a txt file, and I will use the Indeed API to pull three jobs based on the job title you enter in.
+
+Here is the Indeed API documentation - http://www.indeed.com/jsp/apiinfo.jsp
+
+I also included the HTML and CSS to “threejobs” that I’ve already made.
+
+I would have a Class of Jobtitle that would be used to search the Indeed API
